@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+/logs/*
+
+# Target
+target/
+
+# Ide
+*.idea
+
+# MAVEN
+*.mvn
+
+# Log file
+*.log
+*.logs
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+*.csv
+*.png
+*.jpg
